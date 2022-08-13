@@ -97,7 +97,7 @@ group by report_reason;
 
 
 /*
-# dtediff
+# datediff
 
 SELECT DATEDIFF('2013-01-13','2012-10-01'); # 104
 
